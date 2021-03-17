@@ -20,4 +20,4 @@ All pages:
 
 
 
-Don't forget to try the python human / alien translator !!!
+To try the human / alien translator, just download the Programme_de_trad.py script and run it
