@@ -20,4 +20,5 @@ All pages:
 
 
 
-To try the human / alien translator, just download the Programme_de_trad.py script and run it
+To try the human / alien translator, just download the "Programme_de_trad.py" script and run it
+https://raw.githubusercontent.com/mulder974/Escape-Game/master/Programme_de_trad.py
